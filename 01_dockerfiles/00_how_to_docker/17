@@ -1,0 +1,3 @@
+docker ps
+
+# Only showing activ by default. to see inactive also use -a

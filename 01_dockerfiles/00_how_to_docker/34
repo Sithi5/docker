@@ -1,0 +1,3 @@
+docker-machine rm Aiur -y
+
+# -y Assumes automatic yes to proceed with remove
